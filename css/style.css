@@ -722,6 +722,8 @@ body{
 }
 #page-content .column-content .box-content #red-border{
 	border-top: solid 3px #e64c65;
+	float: left;
+    padding-right: 8px;
 }
 #page-content .column-content .box-content #blue-border{
 	border-top: solid 3px #4fc4f6;
